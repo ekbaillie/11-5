@@ -4,7 +4,11 @@ Example: The input [3, 4, -1, 1] should return 2 because it is the smallest posi
 
 Stretch goal: Your solution should run in linear time and use constant space. */
 
+Do you see my EJ branch? This is going to be great! 
 
+I see your notes but not as a separate branch 
+
+Darn!
 
 class Main {
   public static void main(String[] args) {
